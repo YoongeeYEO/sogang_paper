@@ -4,8 +4,6 @@
 
 서강대학교 정보통신대학원 졸업논문 작성 관리를 위한 github 페이지입니다.
 
-(작성중입니다)
 
-작성경과 : https://www.notion.so/97d8d90d34714017b546ad61aa8d3c1e?pvs=4
 
-작성자 : A66050 여윤기
+> 작성경과 : https://www.notion.so/97d8d90d34714017b546ad61aa8d3c1e?pvs=4
