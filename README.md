@@ -9,9 +9,16 @@
 - Domain Adaptation과 Data Augmentation을 동시에 적용하였을 때 Baseline 모델 대비 유의미한 성능 향상을 보임.
   - Domain Adaptation(DANN)과 Data Augmentation 기법들을 각각 단독으로 적용한 경우보다 Accuracy 최대 9.6% 향상
     ![전체 Accuracy 비교](https://github.com/YoongeeYEO/sogang_paper/blob/main/2f7349d7-8257-4959-8ccb-61de4da2f02f.jpg)
+
+### Dataset
+- [Source Domain Dataset #1](https://github.com/khanhha/crack_segmentation#Dataset)
+- [Source Domain Dataset #2](https://digitalcommons.usu.edu/all_datasets/48/)
+- [Source Domain Dataset #3](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection)
+- [Source Domain Dataset #4](https://www.kaggle.com/datasets/pauldavid22/crack50020220509t090436z001)
+- [Target Domain Dataset](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71447)
   
 ### Training🚀🚀
-run ```python code/DANN/models.py```
+- run ```python code/DANN/models.py```
 
 ---
 ### 논문 작성경과
