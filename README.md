@@ -8,7 +8,7 @@
 ![제안기법](https://github.com/YoongeeYEO/sogang_paper/blob/main/mehtod%20architecture.png)
 - Domain Adaptation과 Data Augmentation을 동시에 적용하였을 때 Baseline 모델 대비 유의미한 성능 향상을 보임.
   - Domain Adaptation(DANN)과 Data Augmentation 기법들을 각각 단독으로 적용한 경우보다 Accuracy 향상됨.
-
+![전체 Accuracy 비교](https://github.com/YoongeeYEO/sogang_paper/blob/main/model%20accuracy.jpg)
 
 
 > 작성경과 : https://www.notion.so/97d8d90d34714017b546ad61aa8d3c1e?pvs=4
